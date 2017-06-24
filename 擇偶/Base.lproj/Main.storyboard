@@ -91,12 +91,11 @@
                     </view>
                     <connections>
                         <outlet property="blood" destination="et8-n0-h7w" id="828-xT-cZj"/>
-                        <outlet property="bmi" destination="8c4-fN-FNu" id="1xG-QE-8Wj"/>
+                        <outlet property="bmi" destination="8c4-fN-FNu" id="JS4-am-IbC"/>
                         <outlet property="no" destination="jsG-5M-Ssn" id="QhU-3i-UpM"/>
                         <outlet property="stars" destination="1W5-L1-vXR" id="U4P-z2-Sfp"/>
                         <outlet property="yes" destination="K08-MM-tBq" id="aon-i3-0jh"/>
                         <outlet property="yess" destination="K08-MM-tBq" id="KA5-em-TcW"/>
-                        <outlet property="ＢＭＩ" destination="8c4-fN-FNu" id="Tb8-en-ux5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

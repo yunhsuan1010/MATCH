@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    
     @IBOutlet weak var bmi: UITextField!
     @IBOutlet weak var stars: UITextField!
     @IBOutlet weak var blood: UISegmentedControl!
@@ -22,7 +23,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var yess: UIImageView!
     @IBAction func buttom(_ sender: Any) {
         if bmi.text == "20"{
-            if stars.text == "ss"{
+            if stars.text == "libra"{
                 if blood.selectedSegmentIndex == 2 {
                 no.isHidden = true
         yess.isHidden  = false
